@@ -8,3 +8,6 @@ computer = t[randint(0,2)]
 
 #set player to False
 player = False
+
+while player == False:
+#set player to True
